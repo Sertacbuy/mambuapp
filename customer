@@ -1,0 +1,13 @@
+<app>
+<id>Cust001</id>
+<name>Customers</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Customers</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Customers</label>
+<url>https://corebanking-tst.akbank.de/customers</url>
+</extensionpoint>
+</app>
