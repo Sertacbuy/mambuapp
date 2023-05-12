@@ -1,0 +1,13 @@
+<app>
+<id>PAR001</id>
+<name>Parameters</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Parameters</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Parameters</label>
+<url>https://parameter-tst.akbank.de/parameters</url>
+</extensionpoint>
+</app>
