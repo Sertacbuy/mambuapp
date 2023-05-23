@@ -7,7 +7,7 @@
 <installUrl></installUrl>
 <extensionpoint>
 <location>EXTENSION_MENU</location>
-<label>Customers</label>
+<label>Interest Rate Products</label>
 <url>https://corebanking-tst.akbank.de/products</url>
 </extensionpoint>
 </app>
