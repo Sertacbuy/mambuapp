@@ -1,0 +1,13 @@
+<app>
+<id>Int001</id>
+<name>Interest Rates</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Interest Rates</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Interest Rates</label>
+<url>https://corebanking-tst.akbank.de/interest-rates</url>
+</extensionpoint>
+</app>
