@@ -1,0 +1,13 @@
+<app>
+<id>Account003</id>
+<name>Current Account View</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Current Account View</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Current Account View</label>
+<url>https://corebanking-tst.akbank.de/deposit/current-accounts/view</url>
+</extensionpoint>
+</app>
