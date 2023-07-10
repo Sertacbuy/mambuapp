@@ -1,0 +1,13 @@
+<app>
+<id>Account004</id>
+<name>Time Deposit Account View</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Time Deposit Account View</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Time Deposit Account View</label>
+<url>https://corebanking-tst.akbank.de/deposit/time-deposit-accounts/view</url>
+</extensionpoint>
+</app>
