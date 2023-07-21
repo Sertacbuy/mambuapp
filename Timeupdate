@@ -1,0 +1,13 @@
+<app>
+<id>Account006</id>
+<name>Time Deposit Account Update</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Time Deposit Account Update</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Time Deposit Account Update</label>
+<url>https://corebanking-tst.akbank.de/deposit/time-deposit-accounts/update</url>
+</extensionpoint>
+</app>
