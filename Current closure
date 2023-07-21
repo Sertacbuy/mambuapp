@@ -1,0 +1,13 @@
+<app>
+<id>Account009</id>
+<name>Current/Saving Account Closure</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Current/Saving Account Closure</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Current/Saving Account Closure</label>
+<url>https://corebanking-tst.akbank.de/deposit/current-accounts/closure</url>
+</extensionpoint>
+</app>
