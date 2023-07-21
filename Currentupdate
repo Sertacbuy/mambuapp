@@ -1,0 +1,13 @@
+<app>
+<id>Account008</id>
+<name>Current/Saving Account Update</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Current/Saving Account Update</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Current/Saving Account Update</label>
+<url>https://corebanking-tst.akbank.de/deposit/time-deposit-accounts/update</url>
+</extensionpoint>
+</app>
