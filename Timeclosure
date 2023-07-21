@@ -1,0 +1,13 @@
+<app>
+<id>Account007</id>
+<name>Time Deposit Account Closure</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Time Deposit Account Closure</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Time Deposit Account Closure</label>
+<url>https://corebanking-tst.akbank.de/deposit/time-deposit-accounts/closure</url>
+</extensionpoint>
+</app>
