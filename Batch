@@ -1,0 +1,13 @@
+<app>
+<id>Batch001</id>
+<name>Batch Jobs</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Batch Jobs</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Batch Jobs</label>
+<url>https://parameter-tst.akbank.de/batch-jobs</url>
+</extensionpoint>
+</app>
