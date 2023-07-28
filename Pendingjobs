@@ -1,0 +1,13 @@
+<app>
+<id>Pending001</id>
+<name>Pending jobs</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Pending jobs</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Pending jobs</label>
+<url>https://corebanking-tst.akbank.de/pending-jobs</url>
+</extensionpoint>
+</app>
