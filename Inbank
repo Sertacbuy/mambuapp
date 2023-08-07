@@ -1,0 +1,13 @@
+<app>
+<id>Inbank001</id>
+<name>Inbank Money Transfer</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Inbank Money Transfer</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Inbank Money Transfer</label>
+<url>https://corebanking-tst.akbank.de/deposit/money-transfer/inbank-money-transfer</url>
+</extensionpoint>
+</app>
