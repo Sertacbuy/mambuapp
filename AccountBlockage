@@ -1,0 +1,13 @@
+<app>
+<id>AccountB001</id>
+<name>Account Blockage</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Account Blockage</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Account Blockage</label>
+<url>https://corebanking-tst.akbank.de/account-blockage</url>
+</extensionpoint>
+</app>
