@@ -1,0 +1,13 @@
+<app>
+<id>Mint001</id>
+<name>Manuel Interest Payment</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Manuel Interest Payment</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Manuel Interest Payment</label>
+<url>https://corebanking-tst.akbank.de/deposit/manuel-interest-payment</url>
+</extensionpoint>
+</app>
